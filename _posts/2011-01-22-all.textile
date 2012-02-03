@@ -7,7 +7,7 @@ slide: true
 
 <div class="slide">
 
-h1. What is Programming?
+h1. CMS COLLATERAL
   
 * A program is a way of making a computer do something.
 * A programmer is a person who makes these things. But also makes it obvious how it works to someone else.
